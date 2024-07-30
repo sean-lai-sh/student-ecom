@@ -1,0 +1,3 @@
+[submodule "stu-ecom-frontend"]
+	path = stu-ecom-frontend
+	url = https://github.com/sean-lai-sh/stu-ecom-frontend.git
